@@ -1,0 +1,21 @@
+{
+    "name": "muadz16/demo-composer-akademi-batch-2",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "muadz16\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "muadz16",
+            "email": "muadz.siddiq@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
